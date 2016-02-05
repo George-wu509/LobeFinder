@@ -1,0 +1,2 @@
+# LobeFinder
+Dicot leaves are comprised of a heterogeneous mosaic of jig-saw-puzzle piece shaped pavement cells, and it is still unclear the patterns of lobing are initiated in pavement cells because the lack of a robust and objective methodology. We developed a convex-hull based algorithm termed LobeFinder to identify lobes, quantify geometric properties, and create a useful graphical output for further analysis.
